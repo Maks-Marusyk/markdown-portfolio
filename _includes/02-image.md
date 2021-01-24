@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of a Cat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mcgill.ca%2Foss%2Farticle%2Fgeneral-science%2Fshould-i-attach-bell-my-cats-collar&psig=AOvVaw1wrpL1z2f2R3qWNjS-Ou5a&ust=1611615021831000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjXy_rTte4CFQAAAAAdAAAAABAZ)
