@@ -1,1 +1,2 @@
-Strong **time managment** skills
+* Strong **time managment** skills
+* Strong _work ethic_
